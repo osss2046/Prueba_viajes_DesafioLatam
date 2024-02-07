@@ -3,9 +3,11 @@
   color: white;
 }
 .navbar-nav {
-  padding-left: 60%;
+  padding-left: 55%;
 }
-
+body {
+  font-family: "Oxygen", sans-serif;
+}
 header {
   position: relative;
 }
@@ -20,4 +22,21 @@ header {
 
 section{
   background-color: black;
+}
+
+.icon{
+  background-color: rgb(0, 204, 255);
+  text-align: center;
+}
+
+
+.card img{
+  height: 150px;
+}
+#destacados .card{
+  background-color:rgb(0, 204, 255);
+}
+
+nav img{
+  padding-left: 120px;
 }

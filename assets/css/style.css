@@ -3,7 +3,7 @@
   color: white;
 }
 .navbar-nav {
-  padding-left: 55%;
+  padding-left: 50%;
 }
 body {
   font-family: "Oxygen", sans-serif;
@@ -11,7 +11,9 @@ body {
 header {
   position: relative;
 }
-
+.navbar-toggler{
+  margin-right: 50px;
+}
 #navbarContainer {
   position: absolute;
   top: 0;
